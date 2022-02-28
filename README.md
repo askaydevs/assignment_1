@@ -1,1 +1,1 @@
-# assignment_1
+Please refer to the jupyter notebook.
